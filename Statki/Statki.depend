@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1465563390 source:d:\program files (x86)\codeblocks\projects\gra\statki\main.cpp
+	<iostream>
+	<cstdlib>
+	"Gracz.h"
+	"Gra.h"
+	<windows.h>
+	<ctime>
+
+1465563749 source:d:\program files (x86)\codeblocks\projects\gra\statki\gracz.cpp
+	<iostream>
+	<ctime>
+	<windows.h>
+	"gracz.h"
+	<iomanip>
+
+1465549507 d:\program files (x86)\codeblocks\projects\gra\statki\gracz.h
+
+1465552092 source:d:\program files (x86)\codeblocks\projects\gra\statki\gra.cpp
+	<iostream>
+	"Gra.h"
+	"gracz.h"
+	<iomanip>
+	<windows.h>
+
+1465551384 d:\program files (x86)\codeblocks\projects\gra\statki\gra.h
+	"gracz.h"
+
+1490660614 source:d:\maciek\statki\gra.cpp
+	<iostream>
+	"Gra.h"
+	"gracz.h"
+	<iomanip>
+	<windows.h>
+
+1490660622 d:\maciek\statki\gra.h
+	"gracz.h"
+
+1490660622 d:\maciek\statki\gracz.h
+
+1490660622 source:d:\maciek\statki\gracz.cpp
+	<iostream>
+	<ctime>
+	<windows.h>
+	"gracz.h"
+	<iomanip>
+
+1596147041 source:d:\maciek\statki\main.cpp
+	<iostream>
+	<cstdlib>
+	"Gracz.h"
+	"Gra.h"
+	<windows.h>
+	<ctime>
+
